@@ -1,0 +1,26 @@
+body {
+    background-color: #7d32fe;
+}
+
+.rounded-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#btnAddEmployee {
+    margin-top: 10px;
+}
+
+.ps-label {
+    font-weight: bold;
+    width: 100px;
+    display: inline-block;
+}
+
+.ps-right {
+    text-align: right;
+    display: inline-block;
+    width: 100%;
+    text-decoration: underline;
+}
